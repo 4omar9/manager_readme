@@ -136,7 +136,7 @@ AI and agentic coding are not a trend to watch from the sidelines. They are forc
 - **Use AI as a multiplier, not a crutch.** The goal is to go further, faster, not to outsource your thinking.
 - **Stay current.** The tooling landscape moves fast. If something makes us better, we adopt it. Inertia is not a strategy.
 - **Agentic coding is here.** Automated pipelines, AI-assisted code review, generative scaffolding. These are real, available, and expected.
-- **The engineer who masters their tools ships more, thinks clearer, and compounds faster.** That's who I want on my team.
+- **The engineer who masters their tools ships more, thinks clearer, and compounds faster.** That's what I aspire for all my team members.
 
 ---
 
